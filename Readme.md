@@ -1,1 +1,1 @@
-Recipe application with customrecipe upload
+Recipe application with custom recipe upload
